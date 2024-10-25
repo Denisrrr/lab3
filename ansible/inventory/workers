@@ -1,12 +1,12 @@
 [ansible_master]
-workspace-ansible-1
+ansible-ansible-1
 
 [database]
-workspace-app-3
+ansible-app-3
 
 [application]
-workspace-app-1
-workspace-app-2
+ansible-app-1
+ansible-app-2
 
 [webapp:children]
 database
